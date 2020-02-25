@@ -5,8 +5,8 @@ Counter Application is developed in [ReactJS](https://reactjs.org/). In this app
 
 ### Demo Image :
 ![Counter Application](/counter.png)
-![Counter Application](/counter1.png)
-![Counter Application](/counter2.png)
+  ![Counter Application](/counter1.png)
+   ![Counter Application](/counter2.png)
 
 ### Install Dependencies : 
 Clone or download the repo and run command in terminal
