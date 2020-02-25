@@ -1,0 +1,22 @@
+.Counter {
+    background-color: #eee;
+    width: 395px;
+    margin: 10px auto 0 auto;
+    padding: 30px 0;
+    display: block;
+    border-radius: 5px 5px 0 0;
+    border: 3px solid gray;
+    border-bottom: none;
+}
+
+.Counter h1 {
+    color: gray;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.Counter h3 {
+    color: gray;
+    font-weight: lighter;
+    font-size: 25px;
+}

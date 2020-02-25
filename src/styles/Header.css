@@ -1,0 +1,18 @@
+.Header {
+    background-color: transparent;
+    width: 400px;
+    margin: auto;
+    padding: 5px 0;
+    display: block;
+    border: none;
+}
+
+.Header h1 {
+    color: #282828;
+    font-weight: bold;
+    font-size: 32px;
+    word-spacing: 2.7px;
+    letter-spacing: 0.3px;
+    line-height: 0.8;
+    font-family: Arial, Helvetica, sans-serif;
+}

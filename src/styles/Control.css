@@ -1,0 +1,25 @@
+.Control {
+    display: flex;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.Control>button {
+    flex: 1;
+    padding: 10px 5px;
+    margin: 0;
+    border: 3px solid transparent;
+    outline: none;
+    font-weight: auto;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+.Control>button:hover {
+    border: 3px solid gray;
+}
+
+.Control>button:active {
+    font-size: 16px;
+}
