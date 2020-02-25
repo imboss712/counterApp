@@ -1,7 +1,10 @@
 # Counter-App
 Counter Application is developed in [ReactJS](https://reactjs.org/). In this app we can increase or decrese count.
 
-## Demo : [CodeSandBox](https://codesandbox.io/)
+## Demo : [CodeSandBox](https://codesandbox.io/s/counterapp-8bdrg)
+
+### Demo Image :
+![Counter Application](/counter.png)
 
 ### Install Dependencies : 
 Clone or download the repo and run command in terminal
