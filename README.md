@@ -16,6 +16,8 @@ After installing dependencies run command in terminal
 
 ## Built With :
 - [ReactJS](https://reactjs.org/)
+- [numeral](https://www.npmjs.com/package/numeral)
+- [num-to-words](https://www.npmjs.com/package/num-to-words)
 
 ## Developed By :
 * [Shashi Kant Yadav](https://github.com/shashikant712)
