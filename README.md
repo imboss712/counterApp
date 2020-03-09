@@ -4,9 +4,17 @@ Counter Application is developed in [ReactJS](https://reactjs.org/). In this app
 ## Demo : [CodeSandBox](https://8bdrg.codesandbox.io/)
 
 ### Demo Image :
-![Counter Application](/counter.png)
-  ![Counter Application](/counter1.png)
-   ![Counter Application](/counter2.png)
+<p align="center">
+  <img width="100%" height="100%" title="Counter App Demo Image 1" src="/counter.png">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" title="Counter App Demo Image 2" src="/counter1.png">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" title="Counter App Demo Image 2" src="/counter2.png">
+</p>
 
 ### Install Dependencies : 
 Clone or download the repo and run command in terminal
