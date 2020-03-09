@@ -5,15 +5,15 @@ Counter Application is developed in [ReactJS](https://reactjs.org/). In this app
 
 ### Demo Image :
 <p align="center">
-  <img width="100%" height="100%" title="Counter App Demo Image 1" src="/counter.png">
+  <img title="Counter App Demo Image 1" src="/counter.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" title="Counter App Demo Image 2" src="/counter1.png">
+  <img title="Counter App Demo Image 2" src="/counter1.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" title="Counter App Demo Image 2" src="/counter2.png">
+  <img title="Counter App Demo Image 2" src="/counter2.png">
 </p>
 
 ### Install Dependencies : 
